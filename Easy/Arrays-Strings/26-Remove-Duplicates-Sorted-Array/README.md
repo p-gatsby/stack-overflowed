@@ -15,7 +15,7 @@ Then return the number of unique elements in `nums`.
 
 ## Constraints
 - <= nums.length <= 3 * 10^4
-- 100 <= nums[i] <= 100
+- -100 <= nums[i] <= 100
 - `nums` is sorted in non-decreasing order.
 
 ## Example 1
